@@ -1,4 +1,4 @@
-# 🎓 XMU Grad Guide
+# 🎓 xmu-grad-guide
 
 [![GitHub Pages](https://github.com/BUG423/xmu-grad-guide/actions/workflows/pages.yml/badge.svg)](https://github.com/BUG423/xmu-grad-guide/actions/workflows/pages.yml)
 [![Online Platform](https://img.shields.io/badge/Web-在线毕业指引-blue.svg)](https://bug423.github.io/xmu-grad-guide/)
